@@ -22,10 +22,6 @@ Running seeders/seed.js is optional to have a prepopulated database.
 ![Site](public/assets/live.gif)
 
 
-3. Last Week's Summary
-
-![Site](public/assets/dash.png)
-
 
 ## Built With
 
@@ -40,7 +36,7 @@ Running seeders/seed.js is optional to have a prepopulated database.
 
 ## Deployed Link
 
-* [See Live Site]()
+* [See Live Site](https://fitnesstracker101.herokuapp.com)
 
 ## Author
 
